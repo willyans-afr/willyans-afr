@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects wich offers a pleasant environment
 - 📫 Contact me trough email "willyans.afr@gmail.com"
 
-document.write("<h1>We must focus on human anymore!</h1>");
+- 👩🏻‍💻 We must focus on human anymore!
